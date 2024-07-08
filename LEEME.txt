@@ -1,0 +1,24 @@
+prueba 3 arreglada,tkinde,figma,licensia,y readme
+
+Prueba 3 salas con float(1.0,2.0,etc)
+los botnoes tienen un "contorno blanco", ni idea porq ocurre supongo 
+ue la venta no toma bien los png, tendria que arreglarlo con imagenes 
+del mismo color del fondo.
+
+las letras donde van las notas tambien se exportan mal, estas 
+tenian un degrade de color que finalmente no se muestran al
+igual que habia un qr que no se muestra y ni idea de porque 
+el cubo blanco donde hay que escribir.
+
+idea original era tener multiples ventanas pero con figma al
+parecer no guarda bien la informacion.
+
+si puede dar algunos exercicios tipo examen se agredece
+si para esta prueba creia haber practicado lo sufiente
+ni idea de cuanto tendre que practicar para el examen
+(dura 5 horas X_X)
+
+however la vida sigue, gracias por darme tiempo de hacer el fix
+arreglar lo que tenia que arreglar,etc etc
+
+https://www.youtube.com/watch?v=VZrDxD0Za9I
